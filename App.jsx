@@ -6,7 +6,6 @@ const App = () => {
     return (
         <div>
             <Header />
-            <h2>Sanity Check Extended</h2>
         </div>
     )
 }
